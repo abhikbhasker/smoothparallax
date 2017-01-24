@@ -19,7 +19,7 @@
 	   				   the class to the element having largest width), 
 
 	   	5) set attribute dimensions="height x width" to the longest background element(for example dimensions="500x1000")
-	   				dont insert spaces while writing dimensions value and write HEIGHTxWIDTH only.
+	   				Do not insert spaces while writing dimensions value and write HEIGHTxWIDTH only.
 	   	6) style elements with either .parallax or some other class or ID.
 	   	7) for scroller at bottom Add this to HTML 
 	   						<div class="scroller" onmousemove="scrollit(event)" onmouseenter="getentrycord(event)"></div>
